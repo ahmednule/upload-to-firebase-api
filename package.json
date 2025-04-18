@@ -1,6 +1,7 @@
 {
   "name": "upload-to-firebase-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "this is the backend for the test project to push images to firebase ad storing the url to another postgres url database",
   "main": "index.js",
   "scripts": {
